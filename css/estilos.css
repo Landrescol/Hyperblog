@@ -53,6 +53,12 @@ body
     padding: 1em;
 } 
 
+#matilda 
+{
+    text-align: center;
+
+}
+
 #footer 
 {
     background: #37488b;
